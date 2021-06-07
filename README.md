@@ -15,6 +15,6 @@ Se você já tem o <a href="http://python.org">Python</a> com <a href="http://pi
    
     pip install robotframework
 
-SeleniumLibrary é uma biblioteca de teste da web para Robot Framework que utiliza a ferramenta Selenium internamente. O projeto está hospedado no GitHub e os downloads podem ser encontrados no PyPI. O método de instalação recomendado é usar pip:
+SeleniumLibrary é uma biblioteca de teste da web para Robot Framework que utiliza a ferramenta Selenium internamente. O método de instalação recomendado é usar pip:
 
     pip install --upgrade robotframework-seleniumlibrary
