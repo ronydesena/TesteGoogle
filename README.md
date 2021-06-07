@@ -1,4 +1,4 @@
-Robot Framework
+Teste Google
 ===============
 
 
@@ -10,7 +10,6 @@ O Robot Framework é independente do sistema operacional e do aplicativo. A estr
 
 Instalação
 ------------
-
 Para poder executar a script de teste, a primeira pré-condição é ter o  <a href="http://python.org">Python</a> com <a href="http://pip-installer.org">pip</a> instalado. Com isso, é possível instalar o Robot Framework simplesmente executando no prompt de comando:
    
     pip install robotframework
@@ -21,4 +20,10 @@ Logo após é necessário instalar a SeleniumLibrary, que é uma biblioteca de t
 
 Também é necessário um editor ou IDE, é recomendável utilizar o <a href="https://atom.io/">Atom</a>, que é um editor de texto de código aberto disponível para as plataformas Linux, macOS e Microsoft Windows, desenvolvido pelo GitHub sob a licença MIT.
 
-Para poder testar um Sistema Web também é necessário ter os drivers dos browsers. Os mais utilizados geralmente são o <a href="https://chromedriver.chromium.org/downloads">Chrome</a> e <a href="https://github.com/mozilla/geckodriver/releases">Mozilla</a>.
+Para poder testar um Sistema Web também é necessário ter os drivers dos browsers e inserí-los na pasta Script do Python. Os browsers mais utilizados geralmente são o <a href="https://chromedriver.chromium.org/downloads">Chrome</a> e <a href="https://github.com/mozilla/geckodriver/releases">Mozilla</a>.
+
+Execução
+------------
+Para executar o caso de teste, basta executar a seguinte linha de comando no Prompt de Comando:
+
+   robot tests
