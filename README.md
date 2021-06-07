@@ -13,4 +13,4 @@ Instalaçãp
 
 Se você já tem o <a href="http://python.org">Python</a> com <a href="http://pip-installer.org">pip</a> instalado, pode simplesmente executar:
    
-   pip install robotframework
+    pip install robotframework
