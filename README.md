@@ -11,7 +11,7 @@ O Robot Framework é independente do sistema operacional e do aplicativo. A estr
 Instalaçãp
 ------------
 
-Se você já tem o <a href="http://python.org">Python</a> com <a href="http://pip-installer.org">pip</a> instalado, pode simplesmente executar:
+Se você já tem o <a href="http://python.org">Python</a> com <a href="http://pip-installer.org">pip</a> instalado, pode simplesmente executar no prompt de comando:
    
     pip install robotframework
 
