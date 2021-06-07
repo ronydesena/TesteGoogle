@@ -26,4 +26,4 @@ Execução
 ------------
 Para executar o caso de teste, basta executar a seguinte linha de comando no Prompt de Comando:
 
-    robot tests
+    robot -d ./result tests\TestGoogle.robot
