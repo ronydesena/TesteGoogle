@@ -19,4 +19,6 @@ Logo após é necessário instalar a SeleniumLibrary, que é uma biblioteca de t
 
     pip install --upgrade robotframework-seleniumlibrary
 
-Também é necessário um editor ou IDE, é recomendável utilizar o <a href="https://atom.io/">Atom</a>, que é um editor de texto de código aberto disponível para as plataformas Linux, macOS e Microsoft Windows, desenvolvido pelo GitHub sob a licença MIT. 
+Também é necessário um editor ou IDE, é recomendável utilizar o <a href="https://atom.io/">Atom</a>, que é um editor de texto de código aberto disponível para as plataformas Linux, macOS e Microsoft Windows, desenvolvido pelo GitHub sob a licença MIT.
+
+Para poder testar um Sistema Web também é necessário ter os drivers dos browsers. Os mais utilizados, geralmente são o <a href="https://chromedriver.chromium.org/downloads">Chrome</a> e <a href="https://github.com/mozilla/geckodriver/releases">Mozilla</a>.
